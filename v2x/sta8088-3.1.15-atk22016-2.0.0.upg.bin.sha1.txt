@@ -1,0 +1,4 @@
+//
+// File Checksum Integrity Verifier version 2.05.
+//
+48739a4e0a5ba05ed1e628740660ac03fc1d8c6e sta8088-3.1.15-atk22016-2.0.0.upg.bin
