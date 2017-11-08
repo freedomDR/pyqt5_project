@@ -2,213 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63948e03-c9ac-41ae-ab2f-88d954716502" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ImageReversal.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/function_collection/custom_deal.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/preferred-vcs.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/icon.png" afterPath="$PROJECT_DIR$/test/icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/test.png" afterPath="$PROJECT_DIR$/test/test.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/8月15日测试报告.docx" afterPath="$PROJECT_DIR$/v2x/8月15日测试报告.docx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/CRATON-SDK-4.11.0-Release-Notes.pdf" afterPath="$PROJECT_DIR$/v2x/CRATON-SDK-4.11.0-Release-Notes.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/GNSS FW Update Guide 3.1.15.pdf" afterPath="$PROJECT_DIR$/v2x/GNSS FW Update Guide 3.1.15.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/OBU-201 rsyslog Guide.pdf" afterPath="$PROJECT_DIR$/v2x/OBU-201 rsyslog Guide.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/OBU-201U 0B datasheet (1).pdf" afterPath="$PROJECT_DIR$/v2x/OBU-201U 0B datasheet (1).pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/OBU-201U 0B datasheet (2).pdf" afterPath="$PROJECT_DIR$/v2x/OBU-201U 0B datasheet (2).pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/OBU-201U 0B datasheet.pdf" afterPath="$PROJECT_DIR$/v2x/OBU-201U 0B datasheet.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/SDK/gcc-arm-none-eabi-4_8-2014q3-atk-1.0.0-linux.tar.xz" afterPath="$PROJECT_DIR$/v2x/SDK/gcc-arm-none-eabi-4_8-2014q3-atk-1.0.0-linux.tar.xz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/SDK/sdk-4.11.0-sc-i686-linux-gnu.tar.xz" afterPath="$PROJECT_DIR$/v2x/SDK/sdk-4.11.0-sc-i686-linux-gnu.tar.xz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/SDK/sdk-us-914.zip" afterPath="$PROJECT_DIR$/v2x/SDK/sdk-us-914.zip" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/Unex IMA-EEBL Demo Kit Setup Guide.pdf" afterPath="$PROJECT_DIR$/v2x/Unex IMA-EEBL Demo Kit Setup Guide.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/Unex's V2X Brochure-2017.pdf" afterPath="$PROJECT_DIR$/v2x/Unex's V2X Brochure-2017.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/V2X相关的企业.docx" afterPath="$PROJECT_DIR$/v2x/V2X相关的企业.docx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/callfiche_cn_at_2017_final_v03.pdf" afterPath="$PROJECT_DIR$/v2x/callfiche_cn_at_2017_final_v03.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/craton-sdk-4.11.0-api-manual.pdf" afterPath="$PROJECT_DIR$/v2x/craton-sdk-4.11.0-api-manual.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/craton-sdk-4.11.0-user-manual.pdf" afterPath="$PROJECT_DIR$/v2x/craton-sdk-4.11.0-user-manual.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/jointproposaltemplateffg_cas_2017.doc" afterPath="$PROJECT_DIR$/v2x/jointproposaltemplateffg_cas_2017.doc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/programmersguide_threadx.pdf" afterPath="$PROJECT_DIR$/v2x/programmersguide_threadx.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914.zip" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914.zip" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/arm/obj/cmd_antenna_select.o" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/arm/obj/cmd_antenna_select.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/arm/obj/cmd_audio.o" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/arm/obj/cmd_audio.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/arm/obj/cmd_dot3_v3.o" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/arm/obj/cmd_dot3_v3.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/arm/obj/main.o" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/arm/obj/main.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/lib/lib1609v3.a" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/lib/lib1609v3.a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/lib/libgpio_pca9554a.a" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/lib/libgpio_pca9554a.a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/lib/libgps.a" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/lib/libgps.a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/lib/libj2735r63.a" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/lib/libj2735r63.a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/lib/liblinux.a" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/lib/liblinux.a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/lib/liboslink_us_v3.a" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/lib/liboslink_us_v3.a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/lib/libsec.a" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/lib/libsec.a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sta8088-3.1.15-atk22016-2.0.0.upg.bin" afterPath="$PROJECT_DIR$/v2x/sta8088-3.1.15-atk22016-2.0.0.upg.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/test.docx" afterPath="$PROJECT_DIR$/v2x/test.docx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/ui_chinese.apk" afterPath="$PROJECT_DIR$/v2x/ui_chinese.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/v2x技术调研-董睿.docx" afterPath="$PROJECT_DIR$/v2x/v2x技术调研-董睿.docx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/wave-sdk-914-api-guide.pdf" afterPath="$PROJECT_DIR$/v2x/wave-sdk-914-api-guide.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/wave-sdk-914-environment-setup-guide.pdf" afterPath="$PROJECT_DIR$/v2x/wave-sdk-914-environment-setup-guide.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/wave-sdk-914-quick-start-guide.pdf" afterPath="$PROJECT_DIR$/v2x/wave-sdk-914-quick-start-guide.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/wave-sdk-914.img" afterPath="$PROJECT_DIR$/v2x/wave-sdk-914.img" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/一些问题的解决" afterPath="$PROJECT_DIR$/v2x/一些问题的解决" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/一些问题的解决.docx" afterPath="$PROJECT_DIR$/v2x/一些问题的解决.docx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/华冠业务文档总结.doc" afterPath="$PROJECT_DIR$/v2x/华冠业务文档总结.doc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/测试报告.docx" afterPath="$PROJECT_DIR$/v2x/测试报告.docx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/资料/1 体系结构模拟器的技术和发展.pdf" afterPath="$PROJECT_DIR$/v2x/资料/1 体系结构模拟器的技术和发展.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/资料/100-AMS 软件编码规范.doc" afterPath="$PROJECT_DIR$/v2x/资料/100-AMS 软件编码规范.doc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/资料/101-AMS 文档模板.docx" afterPath="$PROJECT_DIR$/v2x/资料/101-AMS 文档模板.docx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/资料/10亿美元_福特将投资一家人工智能企业_布局自动驾驶_.pdf" afterPath="$PROJECT_DIR$/v2x/资料/10亿美元_福特将投资一家人工智能企业_布局自动驾驶_.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/资料/2 大规模并行计算机系统并行性能模拟技术研究_徐传福.pdf" afterPath="$PROJECT_DIR$/v2x/资料/2 大规模并行计算机系统并行性能模拟技术研究_徐传福.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/资料/22 大话处理器.zip" afterPath="$PROJECT_DIR$/v2x/资料/22 大话处理器.zip" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/资料/22 大话处理器/22 大话处理器/大话处理器.pdf" afterPath="$PROJECT_DIR$/v2x/资料/22 大话处理器/22 大话处理器/大话处理器.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/资料/22 大话处理器/22 大话处理器/大话处理器v2.0.ppt" afterPath="$PROJECT_DIR$/v2x/资料/22 大话处理器/22 大话处理器/大话处理器v2.0.ppt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/资料/22 大话处理器/22 大话处理器/大话处理器：处理器基础知识读本.pdf" afterPath="$PROJECT_DIR$/v2x/资料/22 大话处理器/22 大话处理器/大话处理器：处理器基础知识读本.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/资料/LTE_V有望为通信_汽车行业打开市场新空间_.caj" afterPath="$PROJECT_DIR$/v2x/资料/LTE_V有望为通信_汽车行业打开市场新空间_.caj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/资料/LTE_V有望为通信_汽车行业打开市场新空间_194d76b8_0559_4ac.pdf" afterPath="$PROJECT_DIR$/v2x/资料/LTE_V有望为通信_汽车行业打开市场新空间_194d76b8_0559_4ac.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/资料/SimICT模拟器使用手册.docx" afterPath="$PROJECT_DIR$/v2x/资料/SimICT模拟器使用手册.docx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/资料/SimICT模拟器结构总体设计方案.doc" afterPath="$PROJECT_DIR$/v2x/资料/SimICT模拟器结构总体设计方案.doc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/资料/Simplescalar.ppt" afterPath="$PROJECT_DIR$/v2x/资料/Simplescalar.ppt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/资料/V2X技术发展历程及应用研究.pdf" afterPath="$PROJECT_DIR$/v2x/资料/V2X技术发展历程及应用研究.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/资料/V2X技术发展及技术要点研究论述_张存玺.pdf" afterPath="$PROJECT_DIR$/v2x/资料/V2X技术发展及技术要点研究论述_张存玺.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/资料/a14-Ray.pdf" afterPath="$PROJECT_DIR$/v2x/资料/a14-Ray.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/资料/对汽车智能化进程及其关键技术的思考_陈虹.pdf" afterPath="$PROJECT_DIR$/v2x/资料/对汽车智能化进程及其关键技术的思考_陈虹.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/资料/我国智能网联汽车产业发展规划与发展政策浅析_吕义超.pdf" afterPath="$PROJECT_DIR$/v2x/资料/我国智能网联汽车产业发展规划与发展政策浅析_吕义超.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/资料/新成员培训__开发工具介绍(LWM).ppt" afterPath="$PROJECT_DIR$/v2x/资料/新成员培训__开发工具介绍(LWM).ppt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/车企方案.odp" afterPath="$PROJECT_DIR$/v2x/车企方案.odp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/车企方案.pptx" afterPath="$PROJECT_DIR$/v2x/车企方案.pptx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生数学资料/AEM2017-01.pdf" afterPath="$PROJECT_DIR$/研究生数学资料/AEM2017-01.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生数学资料/AEM2017-02.pdf" afterPath="$PROJECT_DIR$/研究生数学资料/AEM2017-02.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生数学资料/AEM2017-03.pdf" afterPath="$PROJECT_DIR$/研究生数学资料/AEM2017-03.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生数学资料/AEM2017-04.pdf" afterPath="$PROJECT_DIR$/研究生数学资料/AEM2017-04.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生数学资料/AEM2017-05.pdf" afterPath="$PROJECT_DIR$/研究生数学资料/AEM2017-05.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生数学资料/AEM2017-06.pdf" afterPath="$PROJECT_DIR$/研究生数学资料/AEM2017-06.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生数学资料/AEM2017-07.pdf" afterPath="$PROJECT_DIR$/研究生数学资料/AEM2017-07.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生数学资料/AEM2017-08.pdf" afterPath="$PROJECT_DIR$/研究生数学资料/AEM2017-08.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生数学资料/AEM2017-09.pdf" afterPath="$PROJECT_DIR$/研究生数学资料/AEM2017-09.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/Course Introduction.pptx" afterPath="$PROJECT_DIR$/研究生英语资料/Course Introduction.pptx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/docProps/thumbnail.jpeg" afterPath="$PROJECT_DIR$/研究生英语资料/docProps/thumbnail.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/大学学术英语读写教程-录音.rar" afterPath="$PROJECT_DIR$/研究生英语资料/大学学术英语读写教程-录音.rar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生计算机网络/chap1-概述.ppt" afterPath="$PROJECT_DIR$/研究生计算机网络/chap1-概述.ppt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生计算机网络/chap2-物理层.ppt" afterPath="$PROJECT_DIR$/研究生计算机网络/chap2-物理层.ppt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生计算机网络/chap3-数据链路层.ppt" afterPath="$PROJECT_DIR$/研究生计算机网络/chap3-数据链路层.ppt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生计算机网络/chap4-MAC子层.ppt" afterPath="$PROJECT_DIR$/研究生计算机网络/chap4-MAC子层.ppt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生计算机网络/chap4-无线LAN.ppt" afterPath="$PROJECT_DIR$/研究生计算机网络/chap4-无线LAN.ppt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生计算机网络/chap5-续+IP.ppt" afterPath="$PROJECT_DIR$/研究生计算机网络/chap5-续+IP.ppt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生计算机网络/chap5-网络层.ppt" afterPath="$PROJECT_DIR$/研究生计算机网络/chap5-网络层.ppt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生计算机网络/homework+1.doc" afterPath="$PROJECT_DIR$/研究生计算机网络/homework+1.doc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生计算机网络/homework+2.doc" afterPath="$PROJECT_DIR$/研究生计算机网络/homework+2.doc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生计算机网络/homework+3.doc" afterPath="$PROJECT_DIR$/研究生计算机网络/homework+3.doc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Intelli.txt" afterPath="$PROJECT_DIR$/Intelli.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/function_collection/__init__.py" afterPath="$PROJECT_DIR$/test/function_collection/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/function_collection/my_utility.py" afterPath="$PROJECT_DIR$/test/function_collection/my_utility.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/function_collection/custom_deal.py" afterPath="$PROJECT_DIR$/test/function_collection/custom_deal.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/qt.py" afterPath="$PROJECT_DIR$/test/qt.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/untitled.ui" afterPath="$PROJECT_DIR$/test/untitled.ui" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/Makefile" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/Makefile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/arm/obj/cmd_antenna_select.d" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/arm/obj/cmd_antenna_select.d" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/arm/obj/cmd_audio.d" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/arm/obj/cmd_audio.d" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/arm/obj/cmd_dot3_v3.d" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/arm/obj/cmd_dot3_v3.d" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/arm/obj/main.d" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/arm/obj/main.d" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/cmd_antenna_select.c" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/cmd_antenna_select.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/cmd_audio.c" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/cmd_audio.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/cmd_dot3_v3.c" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/cmd_dot3_v3.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/cmd_gps.c" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/cmd_gps.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/cmd_j2735r63_bsm.c" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/cmd_j2735r63_bsm.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/cmd_j2735r63_csr.c" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/cmd_j2735r63_csr.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/cmd_j2735r63_eva.c" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/cmd_j2735r63_eva.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/cmd_j2735r63_ica.c" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/cmd_j2735r63_ica.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/cmd_j2735r63_map.c" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/cmd_j2735r63_map.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/cmd_j2735r63_nmea.c" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/cmd_j2735r63_nmea.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/cmd_j2735r63_pdm.c" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/cmd_j2735r63_pdm.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/cmd_j2735r63_psm.c" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/cmd_j2735r63_psm.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/cmd_j2735r63_pvd.c" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/cmd_j2735r63_pvd.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/cmd_j2735r63_rsa.c" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/cmd_j2735r63_rsa.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/cmd_j2735r63_rtcm.c" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/cmd_j2735r63_rtcm.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/cmd_j2735r63_spat.c" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/cmd_j2735r63_spat.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/cmd_j2735r63_srm.c" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/cmd_j2735r63_srm.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/cmd_j2735r63_ssm.c" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/cmd_j2735r63_ssm.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/cmd_j2735r63_tim.c" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/cmd_j2735r63_tim.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/cmd_test_us_sec.c" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/cmd_test_us_sec.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/dot2_api.h" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/dot2_api.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/dot3_api.h" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/dot3_api.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/dot3_common.h" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/dot3_common.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/error_code.h" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/error_code.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/gps.h" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/gps.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/i_list.h" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/i_list.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/imempool.h" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/imempool.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/j2735r63_bsm_api.h" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/j2735r63_bsm_api.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/j2735r63_common.h" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/j2735r63_common.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/j2735r63_csr_api.h" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/j2735r63_csr_api.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/j2735r63_eva_api.h" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/j2735r63_eva_api.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/j2735r63_ica_api.h" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/j2735r63_ica_api.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/j2735r63_map_api.h" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/j2735r63_map_api.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/j2735r63_nmea_api.h" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/j2735r63_nmea_api.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/j2735r63_pdm_api.h" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/j2735r63_pdm_api.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/j2735r63_psm_api.h" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/j2735r63_psm_api.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/j2735r63_pvd_api.h" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/j2735r63_pvd_api.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/j2735r63_rsa_api.h" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/j2735r63_rsa_api.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/j2735r63_rtcm_api.h" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/j2735r63_rtcm_api.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/j2735r63_spat_api.h" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/j2735r63_spat_api.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/j2735r63_srm_api.h" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/j2735r63_srm_api.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/j2735r63_ssm_api.h" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/j2735r63_ssm_api.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/j2735r63_tim_api.h" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/j2735r63_tim_api.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/linuxapi.h" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/linuxapi.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/list.h" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/list.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/porting_apis.h" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/include/porting_apis.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/main.c" afterPath="$PROJECT_DIR$/v2x/sdk/sdk-us-914/main.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/sta8088-3.1.15-atk22016-2.0.0.upg.bin.sha1.txt" afterPath="$PROJECT_DIR$/v2x/sta8088-3.1.15-atk22016-2.0.0.upg.bin.sha1.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/unex.txt" afterPath="$PROJECT_DIR$/v2x/unex.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v2x/资料/22 大话处理器/22 大话处理器/目录.txt" afterPath="$PROJECT_DIR$/v2x/资料/22 大话处理器/22 大话处理器/目录.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/[Content_Types].xml" afterPath="$PROJECT_DIR$/研究生英语资料/[Content_Types].xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/_rels/.rels" afterPath="$PROJECT_DIR$/研究生英语资料/_rels/.rels" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/docProps/app.xml" afterPath="$PROJECT_DIR$/研究生英语资料/docProps/app.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/docProps/core.xml" afterPath="$PROJECT_DIR$/研究生英语资料/docProps/core.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/_rels/presentation.xml.rels" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/_rels/presentation.xml.rels" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/presProps.xml" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/presProps.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/presentation.xml" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/presentation.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/slideLayouts/_rels/slideLayout1.xml.rels" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/slideLayouts/_rels/slideLayout1.xml.rels" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/slideLayouts/_rels/slideLayout10.xml.rels" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/slideLayouts/_rels/slideLayout10.xml.rels" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/slideLayouts/_rels/slideLayout11.xml.rels" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/slideLayouts/_rels/slideLayout11.xml.rels" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/slideLayouts/_rels/slideLayout2.xml.rels" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/slideLayouts/_rels/slideLayout2.xml.rels" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/slideLayouts/_rels/slideLayout3.xml.rels" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/slideLayouts/_rels/slideLayout3.xml.rels" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/slideLayouts/_rels/slideLayout4.xml.rels" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/slideLayouts/_rels/slideLayout4.xml.rels" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/slideLayouts/_rels/slideLayout5.xml.rels" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/slideLayouts/_rels/slideLayout5.xml.rels" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/slideLayouts/_rels/slideLayout6.xml.rels" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/slideLayouts/_rels/slideLayout6.xml.rels" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/slideLayouts/_rels/slideLayout7.xml.rels" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/slideLayouts/_rels/slideLayout7.xml.rels" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/slideLayouts/_rels/slideLayout8.xml.rels" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/slideLayouts/_rels/slideLayout8.xml.rels" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/slideLayouts/_rels/slideLayout9.xml.rels" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/slideLayouts/_rels/slideLayout9.xml.rels" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/slideLayouts/slideLayout1.xml" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/slideLayouts/slideLayout1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/slideLayouts/slideLayout10.xml" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/slideLayouts/slideLayout10.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/slideLayouts/slideLayout11.xml" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/slideLayouts/slideLayout11.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/slideLayouts/slideLayout2.xml" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/slideLayouts/slideLayout2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/slideLayouts/slideLayout3.xml" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/slideLayouts/slideLayout3.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/slideLayouts/slideLayout4.xml" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/slideLayouts/slideLayout4.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/slideLayouts/slideLayout5.xml" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/slideLayouts/slideLayout5.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/slideLayouts/slideLayout6.xml" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/slideLayouts/slideLayout6.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/slideLayouts/slideLayout7.xml" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/slideLayouts/slideLayout7.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/slideLayouts/slideLayout8.xml" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/slideLayouts/slideLayout8.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/slideLayouts/slideLayout9.xml" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/slideLayouts/slideLayout9.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/slideMasters/_rels/slideMaster1.xml.rels" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/slideMasters/_rels/slideMaster1.xml.rels" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/slideMasters/slideMaster1.xml" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/slideMasters/slideMaster1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/slides/_rels/slide1.xml.rels" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/slides/_rels/slide1.xml.rels" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/slides/_rels/slide10.xml.rels" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/slides/_rels/slide10.xml.rels" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/slides/_rels/slide2.xml.rels" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/slides/_rels/slide2.xml.rels" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/slides/_rels/slide3.xml.rels" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/slides/_rels/slide3.xml.rels" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/slides/_rels/slide4.xml.rels" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/slides/_rels/slide4.xml.rels" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/slides/_rels/slide5.xml.rels" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/slides/_rels/slide5.xml.rels" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/slides/_rels/slide6.xml.rels" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/slides/_rels/slide6.xml.rels" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/slides/_rels/slide7.xml.rels" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/slides/_rels/slide7.xml.rels" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/slides/_rels/slide8.xml.rels" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/slides/_rels/slide8.xml.rels" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/slides/_rels/slide9.xml.rels" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/slides/_rels/slide9.xml.rels" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/slides/slide1.xml" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/slides/slide1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/slides/slide10.xml" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/slides/slide10.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/slides/slide2.xml" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/slides/slide2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/slides/slide3.xml" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/slides/slide3.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/slides/slide4.xml" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/slides/slide4.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/slides/slide5.xml" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/slides/slide5.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/slides/slide6.xml" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/slides/slide6.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/slides/slide7.xml" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/slides/slide7.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/slides/slide8.xml" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/slides/slide8.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/slides/slide9.xml" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/slides/slide9.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/tableStyles.xml" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/tableStyles.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/theme/theme1.xml" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/theme/theme1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/研究生英语资料/ppt/viewProps.xml" afterPath="$PROJECT_DIR$/研究生英语资料/ppt/viewProps.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -218,16 +14,16 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/pyqt_opencv$qt.coverage" NAME="qt Coverage Results" MODIFIED="1510068723883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/pyqt_opencv$qt.coverage" NAME="qt Coverage Results" MODIFIED="1510107591256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/pyqt_opencv$custom_deal.coverage" NAME="custom_deal Coverage Results" MODIFIED="1510057272237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/function_collection" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="qt.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/qt.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="171" column="48" lean-forward="false" selection-start-line="171" selection-start-column="48" selection-end-line="171" selection-end-column="48" />
+            <state relative-caret-position="344">
+              <caret line="189" column="44" lean-forward="false" selection-start-line="189" selection-start-column="44" selection-end-line="189" selection-end-column="44" />
               <folding>
                 <element signature="e#43#53#0" expanded="true" />
               </folding>
@@ -238,8 +34,8 @@
       <file leaf-file-name="custom_deal.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/function_collection/custom_deal.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="51" column="18" lean-forward="false" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+            <state relative-caret-position="218">
+              <caret line="60" column="18" lean-forward="false" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="18" />
               <folding>
                 <element signature="e#35#45#0" expanded="true" />
               </folding>
@@ -417,6 +213,14 @@
       <option name="presentableId" value="Default" />
       <updated>1510056280234</updated>
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1510069958717</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1510069958717</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -430,25 +234,26 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
+    <editor active="true" />
     <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2533757" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8653251" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962668" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962668" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -484,11 +289,56 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test/qt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#43#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/function_collection/custom_deal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="882">
+          <caret line="51" column="18" lean-forward="false" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+          <folding>
+            <element signature="e#35#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/function_collection/my_utility.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/function_collection/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="41" lean-forward="false" selection-start-line="0" selection-start-column="41" selection-end-line="0" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/function_collection/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -506,7 +356,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="134">
           <caret line="3079" column="0" lean-forward="false" selection-start-line="3079" selection-start-column="0" selection-end-line="3079" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -520,8 +369,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/function_collection/custom_deal.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="51" column="18" lean-forward="false" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+        <state relative-caret-position="218">
+          <caret line="60" column="18" lean-forward="false" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="18" />
           <folding>
             <element signature="e#35#45#0" expanded="true" />
           </folding>
@@ -530,8 +379,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/qt.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="171" column="48" lean-forward="false" selection-start-line="171" selection-start-column="48" selection-end-line="171" selection-end-column="48" />
+        <state relative-caret-position="344">
+          <caret line="189" column="44" lean-forward="false" selection-start-line="189" selection-start-column="44" selection-end-line="189" selection-end-column="44" />
           <folding>
             <element signature="e#43#53#0" expanded="true" />
           </folding>

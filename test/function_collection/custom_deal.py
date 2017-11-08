@@ -51,5 +51,19 @@ def median_fliter(img):
     res_img = cv2.medianBlur(img,ksize=3)
     return res_img
 
+# 旋转变换 function_index 9
+def rotate_translation(img, degree):
+    M = cv2.getRotationMatrix2D((img.shape[0]//2, img.shape[1]//2),degree,1)
+    res_img = cv2.warpAffine(img, M,(img.shape[1],img.shape[0]))
+    return res_img
+
+# 水平，垂直变换 function_index 10
+def vh_translation(img):
+    M1 = np.float32([[1,0,50],[0,1,0]])
+    res_img_h = cv2.warpAffine(img, M1, (img.shape[1], img.shape[0]))
+    M2 = np.float32([[1, 0, 0], [0, 1, 50]])
+    res_img_v = cv2.warpAffine(img, M2, (img.shape[1], img.shape[0]))
+    return res_img_h, res_img_v
+
 if __name__ == '__main__':
     pass

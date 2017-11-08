@@ -23,7 +23,7 @@ class Me(QWidget):
                           7: '平滑滤波器', \
                           8: '中值滤波器', \
                           9: '旋转变换', \
-                          10: '水平垂直偏移变换'}
+                          10: '水平垂直平移变换'}
     function_map_key = dict(zip(list(function_map_index.values()), list(function_map_index.keys())))
 
     file_addr = ''
@@ -174,6 +174,20 @@ class Me(QWidget):
             res_image = custom_deal.median_fliter(cv2.cvtColor(origin_image,code=cv2.COLOR_RGB2GRAY))
             my_utility.custom_show(res_image, [1,2,2])
             my_utility.plt.title('3x3 median fliter')
+        elif (funtion_index == 9):
+            my_utility.custom_show(origin_image,[1,2,1])
+            my_utility.plt.title('origin image')
+            res_image = custom_deal.rotate_translation(origin_image, 60)
+            my_utility.custom_show(res_image,[1,2,2])
+            my_utility.plt.title('60 degree')
+        elif (funtion_index == 10):
+            my_utility.custom_show(origin_image,[1,3,1])
+            my_utility.plt.title('origin image')
+            res_image_h, res_image_v = custom_deal.vh_translation(origin_image)
+            my_utility.custom_show(res_image_h,[1,3,2])
+            my_utility.plt.title('horizontal')
+            my_utility.custom_show(res_image_v, [1,3,3])
+            my_utility.plt.title('vertical')
         my_utility.plt.show()
 
 
