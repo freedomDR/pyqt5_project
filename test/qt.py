@@ -133,10 +133,10 @@ class Me(QWidget):
             my_utility.custom_show(origin_image, [1, 2, 1])
             res_image = cv2.cvtColor(origin_image, code=cv2.COLOR_RGB2GRAY)
             res_image = custom_deal.grayscale_histogram(res_image)
-            my_utility.custom_show(res_image, [1, 2, 3])
+            my_utility.custom_show(res_image, [1, 2, 2])
         elif (funtion_index == 4):
             self.q_text_editor.setPlainText('还未实现')
-            pass
+            return
         elif (funtion_index == 5):
             my_utility.plt.figure(1)
             my_utility.plt.plot([0, 10, 15, 25], [0, 5, 20, 25], 'ro-')
