@@ -65,5 +65,13 @@ def vh_translation(img):
     res_img_v = cv2.warpAffine(img, M2, (img.shape[1], img.shape[0]))
     return res_img_h, res_img_v
 
+# 近似金字塔，预测残差金字塔 11
+def pyramid(img):
+    res_down = cv2.pyrDown(img)
+    res_down = cv2.pyrDown(res_down)
+    res_up = cv2.pyrUp(img)
+    res_up = cv2.pyrUp(img)
+    return res_down, res_up
+
 if __name__ == '__main__':
     pass

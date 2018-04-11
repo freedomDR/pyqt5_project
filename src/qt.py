@@ -4,7 +4,7 @@ import sys
 import cv2
 import numpy as np
 from PyQt5.QtWidgets import (QApplication, QWidget, QPushButton, QMessageBox, QDesktopWidget, QLineEdit, QFileDialog, \
-    QComboBox, QGridLayout, QHBoxLayout, QVBoxLayout, QLabel, QPlainTextEdit, QDialog)
+    QComboBox, QGridLayout, QHBoxLayout, QVBoxLayout, QLabel, QPlainTextEdit, QDialog, QMainWindow)
 from PyQt5.QtGui import QIcon
 from PyQt5.QtWebEngineWidgets import QWebEngineView
 from PyQt5.QtCore import QUrl
@@ -17,7 +17,7 @@ class Me(QWidget):
     function_map_index = {1: '灰度图像反转', 2: '灰度直方图', 3: '直方图均衡化',
                           4: '直方图规定化', 5: '分段线性变换', 6: '幂律变换',
                           7: '平滑滤波器', 8: '中值滤波器', 9: '旋转变换',
-                          10: '水平垂直平移变换'}
+                          10: '水平垂直平移变换', 11: '图像金字塔'}
     function_map_key = dict(zip(list(function_map_index.values()), list(function_map_index.keys())))
 
     file_addr = ''
@@ -28,6 +28,8 @@ class Me(QWidget):
         self.choose_id = 0
 
     def my_ui(self):
+
+        #self.statusBar().showMessage('freedomDR');
 
         v_box = QVBoxLayout()
 
@@ -99,7 +101,7 @@ class Me(QWidget):
 
     # 选择文件处理函数
     def showDialog(self):
-        fname = QFileDialog.getOpenFileName(self, 'open file', '/mnt/sdb')
+        fname = QFileDialog.getOpenFileName(self, 'open file', '/mnt/sdb/opencv/ImageMaterial')
         self.file_addr_text.setText(str(fname[0]))
         self.file_addr = fname[0]
         print(fname[0])
@@ -188,6 +190,16 @@ class Me(QWidget):
             my_utility.plt.title('horizontal')
             my_utility.custom_show(res_image_v, [1, 3, 3])
             my_utility.plt.title('vertical')
+        elif (function_index == 11):
+            my_utility.custom_show(origin_image, [1, 3, 1])
+            my_utility.plt.title('origin image')
+            res_down_image, res_up_image = custom_deal.pyramid(origin_image)
+            my_utility.custom_show(res_down_image, [1, 3, 2])
+            my_utility.custom_show(res_up_image, [1, 3, 3])
+            #cv2.imshow('origin',origin_image)
+            #cv2.imshow('down', res_down_image)
+            #cv2.imshow('up', res_up_image)
+            pass
         else:
             pass
         my_utility.plt.show()
